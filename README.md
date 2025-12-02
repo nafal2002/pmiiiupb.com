@@ -1,4 +1,4 @@
-# Ringkasan Produk
+# Ringkasan Aplikasi Web
 
 **PMII UPB Official** adalah sistem informasi manajemen keanggotaan berbasis web untuk organisasi Pergerakan Mahasiswa Islam Indonesia (PMII) Komisariat Universitas Pelita Bangsa.
 
